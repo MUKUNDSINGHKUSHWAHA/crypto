@@ -4,8 +4,8 @@ import { BsGithub } from "react-icons/bs";
 function Footer() {
   return (
     <footer>
-      Made by Rajat &nbsp;
-      <a href="https://github.com/rajat4984" target="_blank">
+      Made by Mukund &nbsp;
+      <a href="https://github.com/MUKUNDSINGHKUSHWAHA" target="_blank">
         <BsGithub />
       </a>
     </footer>
